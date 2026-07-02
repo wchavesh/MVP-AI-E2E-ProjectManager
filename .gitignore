@@ -1,0 +1,18 @@
+# Carpeta con proyectos reales — datos privados
+SeguimientoProyectos/
+
+# Archivos en raíz con datos reales o rutas locales
+app.html
+reporte-semanal-n8n.json
+sistema-prompts-gestion-proyectos.md
+analizar_proyectos.py
+proyectos.json
+plantilla-proyecto.xlsx
+
+# Archivos temporales de LibreOffice / Excel
+.~lock.*
+~$*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
